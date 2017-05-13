@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<KeePassFile>
+	<Root>
+		<Group>
+			<UUID>rAguz6h9BEmz5IxZqAGyGw==</UUID>
+			<Name>groupName</Name>
+			<Notes />
+			<Entry>
+				<UUID>1WgLuXO5YEeOn2OGZT8HwQ==</UUID>
+				<IconID>29</IconID>
+				<String>
+					<Key>Notes</Key>
+					<Value>testnote testnote
+multiline note</Value>
+				</String>
+				<String>
+					<Key>Password</Key>
+					<Value ProtectInMemory="True">Secret&lt;Pass&gt;</Value>
+				</String>
+				<String>
+					<Key>Title</Key>
+					<Value>Entry Title</Value>
+				</String>
+				<String>
+					<Key>URL</Key>
+					<Value>https://bing.com/</Value>
+				</String>
+				<String>
+					<Key>UserName</Key>
+					<Value>testuser</Value>
+				</String>
+			</Entry>
+			<Group>
+				<UUID>jpfbI9S/iUa0h+gNdW7FeA==</UUID>
+				<Name>General</Name>
+				<Notes />
+				<Entry>
+					<UUID>Vxc0SGe+FUOJG8LlGO0Z0A==</UUID>
+					<IconID>0</IconID>
+					<String>
+						<Key>Notes</Key>
+						<Value />
+					</String>
+					<String>
+						<Key>Password</Key>
+						<Value ProtectInMemory="True">Secret&lt;Pass&gt;</Value>
+					</String>
+					<String>
+						<Key>Title</Key>
+						<Value>Example.com account</Value>
+					</String>
+					<String>
+						<Key>URL</Key>
+						<Value>https://example.com/</Value>
+					</String>
+					<String>
+						<Key>UserName</Key>
+						<Value>testuser</Value>
+					</String>
+					<AutoType>
+						<Enabled>True</Enabled>
+						<DataTransferObfuscation>0</DataTransferObfuscation>
+					</AutoType>
+				</Entry>
+				<Entry>
+					<UUID>05S6w4vbaUCyp4YG+fIwtA==</UUID>
+					<IconID>0</IconID>
+					<String>
+						<Key>Notes</Key>
+						<Value />
+					</String>
+					<String>
+						<Key>Password</Key>
+						<Value ProtectInMemory="True">Secret&lt;Pass&gt;</Value>
+					</String>
+					<String>
+						<Key>Title</Key>
+						<Value>livejournal.com</Value>
+					</String>
+					<String>
+						<Key>URL</Key>
+						<Value>http://livejournal.com</Value>
+					</String>
+					<String>
+						<Key>UserName</Key>
+						<Value>testuser</Value>
+					</String>
+					<AutoType>
+						<Enabled>True</Enabled>
+						<DataTransferObfuscation>0</DataTransferObfuscation>
+					</AutoType>
+				</Entry>
+            </Group>
+        </Group>
+    </Root>
+</KeePassFile>
