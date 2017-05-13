@@ -3,7 +3,7 @@ package kee2pass
 import (
 	"fmt"
 	"math/rand"
-	"netelevate.com/kee2pass/entities"
+	"github.com/nciont/kee2pass/entities"
 	"os/exec"
 	"strconv"
 	"text/template"

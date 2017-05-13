@@ -1,8 +1,8 @@
 package tests
 
 import (
-	kp "netelevate.com/kee2pass"
-	en "netelevate.com/kee2pass/entities"
+	kp "github.com/nciont/kee2pass"
+	en "github.com/nciont/kee2pass/entities"
 	"testing"
 )
 

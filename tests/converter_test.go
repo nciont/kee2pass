@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"netelevate.com/kee2pass"
+	"github.com/nciont/kee2pass"
 	"os"
 	"strings"
 	"testing"

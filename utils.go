@@ -2,7 +2,7 @@ package kee2pass
 
 import (
 	"net/url"
-	"netelevate.com/kee2pass/entities"
+	"github.com/nciont/kee2pass/entities"
 	"regexp"
 	"strings"
 	"unicode/utf8"

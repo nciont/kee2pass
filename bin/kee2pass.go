@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"io"
-	"netelevate.com/kee2pass"
+	"github.com/nciont/kee2pass"
 	"os"
 	"os/exec"
 	tmpl "text/template"

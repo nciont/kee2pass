@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"io"
-	"netelevate.com/kee2pass/entities"
+	"github.com/nciont/kee2pass/entities"
 )
 
 // TagEntry entry tag name
